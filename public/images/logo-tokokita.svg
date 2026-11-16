@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="148" viewBox="0 0 570 148" role="img" aria-labelledby="title">
+<title id="title">TokoKita</title>
+<g transform="translate(3,4)">
+ <rect x="8" y="30" width="106" height="104" rx="26" fill="#27d4a1"/>
+ <path d="M37 53V41C37 22 50 11 61 11S86 22 86 41v12" stroke="white" fill="none" stroke-width="11" stroke-linecap="round"/>
+ <path d="m38 79 17 17 33-36" fill="none" stroke="white" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="137" y="92" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="66" letter-spacing="-3" fill="#ffffff">Toko</text>
+<text x="302" y="92" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="66" letter-spacing="-3" fill="#36e4b0">Kita</text>
+<text x="141" y="123" font-family="Arial,Helvetica,sans-serif" font-weight="500" font-size="21" letter-spacing="1.4" fill="#d6e9f4">BELANJA MUDAH DAN AMAN</text>
+</svg>
